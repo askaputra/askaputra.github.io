@@ -1,0 +1,80 @@
+body {
+    background: linear-gradient( white 15%, rgb(162, 161, 161) 40%, gray 70%) ;
+}
+
+.pensi2019 p {
+    transform: translateY(-20px);
+    color: white;
+    font-family: "Rubik", serif;
+    font-optical-sizing: auto;
+}
+
+.potosaya {
+    width: 200px;
+    border-radius: 15px;
+    border: 5px solid gray;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+}
+
+.potogw {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 5px;
+    transform: translateY(5px);
+    padding-top: 0.2rem;
+    font-family: "Rubik", serif;
+    font-optical-sizing: auto;
+ 
+}
+
+.pens2024 p {
+    transform: translateY(-20px);
+    font-family: "Rubik", serif;
+    font-optical-sizing: auto;
+}
+
+.keterampilan li {
+    margin-top: -20px;
+    color: white;
+    font-family: "Rubik", serif;
+    font-optical-sizing: auto;
+}
+
+.kontak p {
+    margin-top: -10px;
+    font-family: "Rubik", serif;
+    font-optical-sizing: auto;
+}
+
+.biografi {
+    color: white;
+    font-family: "Rubik", serif;
+    font-optical-sizing: auto;
+}
+
+.pengalaman {
+    color: white;
+    font-family: "Rubik", serif;
+    font-optical-sizing: auto;
+}
+
+.keter {
+    color: white;
+    font-family: "Rubik", serif;
+    font-optical-sizing: auto;
+}
+
+.fakta {
+    color: white;
+    font-family: "Rubik", serif;
+    font-optical-sizing: auto;
+}
+
+.footer {
+    color: white;
+    font-family: "Rubik", serif;
+    font-optical-sizing: auto
+}
+
